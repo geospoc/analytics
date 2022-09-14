@@ -9,7 +9,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geospoc/gsp-infra.git"
+    "url": "git+https://github.com/geospoc/hosting.git"
   },
   "author": {
     "name": "GeoSpoc Developers",
@@ -24,7 +24,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/geospoc/ani-maps-heatmaps-dashboard/issues"
+    "url": "https://github.com/geospoc/hosting/issues"
   },
-  "homepage": "https://github.com/geospoc/ani-maps-heatmaps-dashboard#readme"
+  "homepage": "https://github.com/geospoc/hosting#readme"
 }
