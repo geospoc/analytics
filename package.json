@@ -1,0 +1,30 @@
+{
+  "name": "@geospoc/analytics",
+  "description": "On premise Plausible analytics for GeoSpoc",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geospoc/gsp-infra.git"
+  },
+  "author": {
+    "name": "GeoSpoc Developers",
+    "email": "developers@geospoc.com",
+    "url": "https://geospoc.io"
+  },
+  "contributors": [
+    {
+      "name": "Vinayak Kulkarni",
+      "email": "inbox.vinayak@gmail.com",
+      "url": "https://vinayakkulkarni.dev"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/geospoc/ani-maps-heatmaps-dashboard/issues"
+  },
+  "homepage": "https://github.com/geospoc/ani-maps-heatmaps-dashboard#readme"
+}
